@@ -41,11 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsun0193&" alt="tsun0193" /></p>
 
-<span>
-<a href="https://codeforces.com/profile/doof_19O3">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=doof_19O3&theme=github_light&force_username=true&border_color=404040" alt="doof_19O3 Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/dduy193">
-<img height="316" src="https://leetcard.jacoblin.cool/dduy193?theme=light&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="dduy193 Leetcode Stats"/>
-</a>
-</span>
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=doof_19O3&bg_color=ffffff&title_color=309830)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dduy193?theme=light&font=quicksand&ext=contest&)
