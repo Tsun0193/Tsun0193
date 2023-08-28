@@ -52,7 +52,7 @@
 <!--   <p> -->
     <img align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=tsun0193&show_icons=true&locale=en&layout=compact"
-      alt="tsun0193" class="most_used" />
+      alt="tsun0193" style="height=195px;" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsun0193&show_icons=true&locale=en"
       alt="tsun0193" class="leetcode_stats" />
 <!--   </p> -->
