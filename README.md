@@ -52,9 +52,9 @@
 <!--   <p> -->
     <img align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=tsun0193&show_icons=true&locale=en&layout=compact"
-      alt="tsun0193" class="most_used" />
+      alt="tsun0193"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsun0193&show_icons=true&locale=en"
-      alt="tsun0193" class="github_stats" />
+      alt="tsun0193" />
 <!--   </p> -->
   <p class="leetcode_stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsun0193&" alt="tsun0193" />
