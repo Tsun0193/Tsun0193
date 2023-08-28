@@ -1,3 +1,14 @@
+<style>
+  .most_used {
+    height: 195px;
+  }
+
+  .leetcode_stats {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Duy</h1>
 <h3 align="center">A junior at University of Engineering and Technology - Vietnam National University Hanoi. I consider myself as a Deep Learning research student, and a Medical AI enthusiast.</h3>
 
@@ -37,9 +48,18 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Duy Dang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Duy Dang" /></a></p><br><br>
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsun0193&show_icons=true&locale=en&layout=compact" alt="tsun0193" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsun0193&show_icons=true&locale=en" alt="tsun0193" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsun0193&" alt="tsun0193" /></p>
+<div class="stats">
+  <p>
+    <img align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=tsun0193&show_icons=true&locale=en&layout=compact"
+      alt="tsun0193" class="most_used" />&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsun0193&show_icons=true&locale=en"
+      alt="tsun0193" class="github_stats" />
+  </p>
+  <p class="leetcode_stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsun0193&" alt="tsun0193" />
+  </p>
+</div>
 
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=doof_19O3&bg_color=ffffff&title_color=309830)
