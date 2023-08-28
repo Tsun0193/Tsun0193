@@ -49,13 +49,13 @@
 <p><a href="https://www.buymeacoffee.com/Duy Dang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Duy Dang" /></a></p><br><br>
 <br><br>
 <div class="stats">
-  <p>
+<!--   <p> -->
     <img align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=tsun0193&show_icons=true&locale=en&layout=compact"
       alt="tsun0193" class="most_used" />&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsun0193&show_icons=true&locale=en"
       alt="tsun0193" class="github_stats" />
-  </p>
+<!--   </p> -->
   <p class="leetcode_stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsun0193&" alt="tsun0193" />
   </p>
