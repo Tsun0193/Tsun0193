@@ -18,13 +18,13 @@
 <br><br>
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [American Sign Language Fingerspelling Recognition](https://www.kaggle.com/competitions/asl-fingerspelling)
+- 🔭 I’m currently working on [Machine Translation](https://vlsp.org.vn/vlsp2023/eval/mt)
 
 - 🌱 I’m currently learning **Competitive Programming, NLP and Computer Vision**
 
-- 👯 I’m looking to collaborate on **Hugging Faces and Reinforcement Learning**
+- 👯 I’m looking to collaborate on **Hugging Faces and Machine Translation**
 
-- 🤝 I’m looking for help with **Gamifying Education Hackathons**
+- 🤝 I’m looking for help with **Advanced Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tsun0193?tab=repositories](https://github.com/Tsun0193?tab=repositories)
 
