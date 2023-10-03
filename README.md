@@ -1,14 +1,3 @@
-<style>
-  .most_used {
-    height: 195px;
-  }
-
-  .leetcode_stats {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Duy</h1>
 <h3 align="center">A junior at University of Engineering and Technology - Vietnam National University Hanoi. I consider myself as a Deep Learning research student, and a Medical AI enthusiast.</h3>
 
