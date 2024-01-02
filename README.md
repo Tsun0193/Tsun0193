@@ -7,11 +7,11 @@
 <br><br>
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [Machine Translation](https://vlsp.org.vn/vlsp2023/eval/mt)
+- 🔭 I’m currently working on Fintech with Machine Learning applications.
 
-- 🌱 I’m currently learning **Competitive Programming, NLP and Computer Vision**
+- 🌱 I’m currently learning **Finance, NLP and Computer Vision**
 
-- 👯 I’m looking to collaborate on **Hugging Faces and Machine Translation**
+- 👯 I’m looking to collaborate on **Any Deep Learning Projects**
 
 - 🤝 I’m looking for help with **Advanced Deep Learning**
 
