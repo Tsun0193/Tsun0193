@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duy</h1>
-<h3 align="center">A junior at University of Engineering and Technology - Vietnam National University Hanoi. I consider myself as a Deep Learning research student, and a Medical AI enthusiast.</h3>
+<h3 align="center">A junior at University of Engineering and Technology - Vietnam National University Hanoi. I consider myself as a Deep Learning research student, and a Fintech enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsun0193&label=Profile%20views&color=0e75b6&style=flat" alt="tsun0193" /> </p>
 
