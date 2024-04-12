@@ -7,7 +7,7 @@
 <br><br>
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on Fintech with Machine Learning applications.
+- 🔭 I’m currently working on Fintech with Deep Learning applications.
 
 - 🌱 I’m currently learning **Finance, NLP and Computer Vision**
 
