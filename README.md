@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#309830;">Duy Dang</span>
 </h1>
-<h3 align="center">Middle AI Research Engineer @ NTQ | Deep Learning Researcher | Senior @ UET - VNU Hanoi</h3>
+<h3 align="center">Middle AI Research Engineer @ NTQ | Deep Learning Researcher | Graduated @ UET - VNU Hanoi</h3>
 
 ---
 
@@ -16,11 +16,11 @@
 ---
 
 ### 🚀 About Me  
-- 🧑‍💻 Middle **AI Research Engineer @ NTQ**  
+- 🧑‍💻 Middle **AI Research Engineer @ NTQ Solutions**  
 - 🎓 Senior at **UET – Vietnam National University Hanoi**  
-- 🔭 Currently working on **Graph Neural Networks, RAG, and Multimodal Deep Learning**  
-- 🌱 Exploring **AI for Blockchain Security, Computer Vision, and Low-resource NLP**  
-- 👯 Open to collaborating on **AI research & production ML projects**  
+- 🔭 Currently working on **Graph Neural Networks, Deep Retrieval, and Multimodal Deep Learning**  
+- 🌱 Exploring **Generative AI, Multimodal AI, and Natural Language Processing**  
+- 👯 Open to collaborating on **AI-ML research projects**  
 - ⚡ Fun side: Bookworm 📚, piano learner 🎹, gym-goer 🏋️, and LoL ADC main 🎮  
 
 ---
@@ -35,20 +35,48 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🧰 Languages & Tools  
+
+#### 🧠 Deep Learning & AI Frameworks
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> 
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/hugging-face-icon.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/34347359?s=200&v=4" width="40" title="MONAI"/>
+  <img src="https://github.com/unslothai.png" width="40" title="Unsloth"/>
+</p>
+
+#### ⚙️ MLOps, Backend & Cloud
+<p align="center">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" width="40" title="MinIO"/> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+</p>
+
+#### 🧩 NLP & LLM Ecosystem
+<p align="center">
+  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" width="40" title="LangChain"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/openai.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/63492953?s=200&v=4" width="40" title="Qwen"/>
+  <img src="https://avatars.githubusercontent.com/u/65504437?s=200&v=4" width="40" title="LlamaIndex"/>
+  <img src="https://avatars.githubusercontent.com/u/121283862?s=200&v=4" width="40" title="vLLM"/>
+</p>
+
+#### 🧠 Classic Stack
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/> 
 </p>
 
 ---
@@ -72,8 +100,8 @@
 
 ### 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/Tsun0193"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsun0193&repo=Elliptic-GNN&theme=tokyonight" /></a>
-  <a href="https://github.com/Tsun0193"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsun0193&repo=VLSP-LegalQA&theme=tokyonight" /></a>
+  <a href="https://github.com/Tsun0193"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsun0193&repo=Ragoooon&theme=radical" /></a>
+  <a href="https://github.com/Tsun0193"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsun0193&repo=nixie&theme=dracula" /></a>
 </p>
 
 ---
